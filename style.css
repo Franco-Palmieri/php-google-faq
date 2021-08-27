@@ -7,10 +7,19 @@
     width: 1000px;
     margin: 0 auto;
 }
+.content{
+    margin: 45px 0;
+}
 .question{
-    margin: 25px;
+    margin: 25px 0;
     font-size: 30px;
 }
 .answer{
-
+    font-size: 18px;
+}
+li{
+    margin: 10px 0;
+}
+p{
+    margin: 40px 0;
 }
